@@ -56,13 +56,6 @@ _"Weather conditions, such as wind speed and visibility, significantly impact fl
 
 ---
 
-## 🔗 Demo
-
-Check out the live demo here:  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdfdeepv1.streamlit.app/)
-
----
-
 ## 📋 Code Setup
 
 1. Clone this repository:
